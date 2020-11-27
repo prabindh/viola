@@ -51,8 +51,8 @@ key_val_dp2 = 0
 self_id = 100 # Some unique id for this station
 ap_ssid = "MicroPython-abba"
 ap_pwd = "abba"
-sta_ssid = "prabindh"
-sta_pwd = "wireless01234"
+sta_ssid = ""
+sta_pwd = ""
 
 # Connect to target host
 do_connect_as_station(sta_ssid, sta_pwd);
