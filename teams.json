@@ -1,0 +1,25 @@
+{
+  "org": "Sneha",
+  "teams": [
+  {
+    "number": 1,
+    "name": "Team1"
+  },
+  {
+    "number": 2,
+    "name": "Team2"
+  },
+  {
+    "number": 3,
+    "name": "Team3"
+  },
+  {
+    "number": 4,
+    "name": "Team4"
+  },
+  {
+    "number": 5,
+    "name": "Team5"
+  }  
+  ]
+}

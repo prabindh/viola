@@ -1,0 +1,11 @@
+date -s "22 SEP 2020 18:00:00"
+
+# If not installed
+#sudo pip3 install virtualenv
+
+cd viola
+source ./bin/activate
+
+Update config.json with ip address of host for serving
+
+python3 start-all.py
